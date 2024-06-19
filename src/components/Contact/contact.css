@@ -1,0 +1,29 @@
+.contact-container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-header{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    color: #495340;
+}
+
+.contact-img{
+    width: 100%;
+}
+
+.copyright{
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2rem;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: #495340;
+    bottom: 0;
+}

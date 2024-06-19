@@ -6,7 +6,7 @@ import about2 from '../../assets/about2.png';
 
 const About = () => {
   return (
-    <div className='about-container'>
+    <div className='about-container' id='about'>
         <div className='about-1'>
             <h1 className='about-header1'>Adaptive learning path + best teachers = Math mastery</h1>
             <p className='about-p1'>The guaranteed formula to be a Math wizard</p>

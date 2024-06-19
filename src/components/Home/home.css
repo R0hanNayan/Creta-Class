@@ -1,13 +1,13 @@
 .home-container {
     position: relative;
-    width: 100%;
+    width: 90rem;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     /* gap: 5rem; */
     background-color: #f1f4ef2e;
-    padding: 4rem;
+    padding: 1rem;
 }
 
 .home-left {
@@ -15,7 +15,7 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    padding: 3rem;
+    padding: 2rem;
 }
 
 .home-header {
