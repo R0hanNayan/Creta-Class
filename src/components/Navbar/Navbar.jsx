@@ -13,10 +13,10 @@ const Navbar = () => {
             </div>
             <div className='navbar-menu'>
                 <AnchorLink href="#about">
-                    <button className='navbar-menu-btn'>About <img src={Icon}/></button>
+                    <button className='navbar-menu-btn'>About <img src={Icon} alt='Icon'/></button>
                 </AnchorLink>
                 <AnchorLink href="#math">
-                    <button className='navbar-menu-btn'>Math <img src={Icon}/></button>
+                    <button className='navbar-menu-btn'>Math <img src={Icon} alt='Icon'/></button>
                 </AnchorLink>
             </div>
             <img className='navbar-contact' src={contact} alt="phone" />
